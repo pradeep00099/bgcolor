@@ -1,2 +1,2 @@
-# bgcolor
-This is a big color generator website project
+# background-generator
+Fun project with JavaScript
